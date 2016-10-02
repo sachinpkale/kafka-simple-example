@@ -1,6 +1,6 @@
 # App
 
-A simple Clojure app illustrating very basic use case of produce and consume methods of Kafka using [clj-kafka](https://github.com/pingles/clj-kafka) library. 
+A simple Clojure app illustrating very basic use case of produce and consume methods of Kafka using [clj-kafka](https://github.com/pingles/clj-kafka). 
 
 ## Usage
 
